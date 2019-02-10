@@ -1,0 +1,7 @@
+*.sh
+
+#Python
+__pycache__
+
+#Jupyter notebook
+.ipynb_checkpoints
